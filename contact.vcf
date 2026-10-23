@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Francis Ma
+N:Ma;Francis;;;
+TITLE:Social Worker
+ORG:Leicestershire County Council
+TEL;TYPE=CELL:+447729081181
+TEL;TYPE=WORK,VOICE:+441163056791
+EMAIL;TYPE=INTERNET,WORK:francis.ma@leics.gov.uk
+END:VCARD
